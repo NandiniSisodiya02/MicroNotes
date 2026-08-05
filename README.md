@@ -14,3 +14,5 @@ A minimal MERN stack notes application created as a beginner exercise.
 cd server
 npm install
 node server.js
+
+PROJECT REPORT IS GIVEN HERE 
